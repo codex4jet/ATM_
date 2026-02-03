@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
+#include <struct.h>
 
 int num, pin, amt;
 int acc001, acc002, acc003, acc004, acc005;   
